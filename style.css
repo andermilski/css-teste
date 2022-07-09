@@ -1,0 +1,23 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: #fff;
+}
+#menu{
+    list-style: none;
+}
+#menu li{
+    display: inline;
+    color: #fff;
+}
+#menu li:hover{
+    background: #CCCCFF;
+}
+#menu, .menu-li{
+    background-color: #6495ED;
+    padding: 10px;
+}
+.menu-option{
+    text-decoration: none;
+    color: #fff;
+}
